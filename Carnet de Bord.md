@@ -1,7 +1,7 @@
 # Python API : Projet numéros 4 - Interface utilisateur pour l'intégration des projets API
 
 ## Membre du Groupe
-Karen Arban, Joudy Benkaddour, Sara Chidawi, Wilhem Frölicher, Gabrielle Morin & Clara Noche.
+Karen Arban, Joudy Benkaddour, Sara Chibaoui, Wilhem Frölicher, Gabrielle Morin & Clara Noche.
 
 ## Répartition du travail :
 
